@@ -1,0 +1,12 @@
+<bookstore>
+  <book>
+    <title>Harry Potter</title>
+    <author>J.K. Rowling</author>
+    <price>29.99</price>
+  </book>
+  <book>
+    <title>Learning XML</title>
+    <author>Erik T. Ray</author>
+    <price>39.95</price>
+  </book>
+</bookstore>
