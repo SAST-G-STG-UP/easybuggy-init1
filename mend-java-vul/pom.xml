@@ -42,9 +42,9 @@
 			<artifactId>spring-boot-starter-jdbc</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>org.hibernate</groupId>
+			<groupId>org.hibernate.orm</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>5.4.21.Final</version>
+			<version>7.4.8.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jdom</groupId>
